@@ -1,3 +1,15 @@
+# v0.0.2 (Fri Jul 28 2023)
+
+#### 🐛 Bug Fix
+
+- Update index.html [#1](https://github.com/goldfishl/container-uetlkni/pull/1) ([@goldfishl](https://github.com/goldfishl))
+
+#### Authors: 1
+
+- JinYu Long ([@goldfishl](https://github.com/goldfishl))
+
+---
+
 # v0.0.1 (Fri Jul 28 2023)
 
 :tada: This release contains work from a new contributor! :tada:
